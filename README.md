@@ -1,2 +1,1 @@
-# BBM203
-Mustafa Emir Tezcan's BBM203 course repository.
+# BBM203 course assignment repository with the Instruction PDF, sample file IO, and codes.
